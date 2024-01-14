@@ -1,2 +1,2 @@
-# BLOG
-Its my first repository on github
+# A BLOG website
+
